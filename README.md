@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leondavidzipp" alt="leondavidzipp" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development using Django**
+- 🌱 I’m currently learning...
+   - Backend using **Go**
+   - Frontend using **Flutter**
+- My current 42 project is **CPP 04** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
