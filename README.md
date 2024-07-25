@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">I currently study software development at 42 Heilbronn</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondavidzipp)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leondavidzipp&label=Profile%20views&color=0e75b6&style=flat" alt="leondavidzipp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leondavidzipp" alt="leondavidzipp" /></a> </p>
 
+- 🏆 Me and my team recently won some prizes at Eth Global with [this project](https://ethglobal.com/showcase/petitionvault-pppkx)
+- ⛓️ I am interested in Blockchain Development
 - 🌱 I’m currently learning...
    - Backend using **Go**
-   - Frontend using **Flutter**
+   - Frontend using **Javascript**
+   - Smart Contract Engineering using **Solidity && Rust**
 - My current 42 project is **CPP 04** 
 
 <h3 align="left">Connect with me:</h3>
