@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
-<h1 align="center">
-  Hi 👋, I'm Leon
-  <a href="https://linkedin.com/in/leon-david-zipp-b3840621a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/leon-david-zipp-b3840621a" height="30" width="40" />
-  </a>
-</h1>
 <h3 align="center">I currently study software development at 42 Heilbronn</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
