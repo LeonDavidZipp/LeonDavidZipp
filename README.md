@@ -18,6 +18,7 @@
    - **Scam Token Approval Protection**
 
 <h4 align="left">🏆 Achievements</h4>
+<p align="left">
 - Me and my team recently won some prizes at **Eth Global** with [this project](https://ethglobal.com/showcase/petitionvault-pppkx)
 - I was part of the Solana Summer Fellowship 2024, but had to stop due to burnout from other projects. 🫠
  Past Experiences
@@ -34,6 +35,7 @@ Smart Contract Engineering using Solidity
 Private Projects:
 Debitor NFTs
 Scam Token Approval Protection
+<p/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leondavidzipp" alt="leondavidzipp" /></a> </p>
 
