@@ -1,8 +1,3 @@
-<p align="left">
-  - Me and my team recently won some prizes at <strong>Eth Global</strong> with <a href="https://ethglobal.com/showcase/petitionvault-pppkx">this project</a><br>
-  - I was part of the Solana Summer Fellowship 2024, but had to stop due to burnout from other projects. 🫠
-</p>
-
 <h2 align="center">Hi 👋! I'm Leon,  a student and blockchain dev</h2>
 
 ###
@@ -17,6 +12,16 @@
   <a href="www.linkedin.com/in/leondavidzipp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<h3 align="left">Cool stuff I did</h3>
+
+###
+
+<div>
+  <a href="https://ethglobal.com/showcase/petitionvault-pppkx">this project</a>
 </div>
 
 ###
