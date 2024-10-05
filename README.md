@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="left">I currently study software development at 42 Heilbronn</h3>
 
-- 🏆 Me and my team recently won some prizes at Eth Global with [this project](https://ethglobal.com/showcase/petitionvault-pppkx)
-- ⛓️ I am interested in Blockchain Development
-- 🌱 I’m currently learning...
-   - Backend using **Go**
-   - Frontend using **Javascript**
-   - Smart Contract Engineering using **Solidity && Rust**
-- My current 42 project is **CPP 04** 
+- 🏆 Me and my team recently won some prizes at **Eth Global** with [this project](https://ethglobal.com/showcase/petitionvault-pppkx)
+- 🫠 I was part of the Solana Summer Fellowship 2024, had to stop because of burnout from other projects
+- ⛓️ I am interested in **Blockchain Development, Smart Contract Security && Smart Contract Optimization**
+- 🌱 I’m currently learning && implementing ...
+   - Decentralized Application (DApp) Engineering  
+   - Frontend using **Next.js**
+   - Smart Contract Engineering using **Solidity**
+- 🏅 My current 42 project is **NetPractice**
+- 🏅 My current private projects are ...
+   - **Debitor NFTs**
+   - **Scam Token Approval Protection**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leondavidzipp" alt="leondavidzipp" /></a> </p>
 
