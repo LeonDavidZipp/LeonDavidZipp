@@ -21,7 +21,7 @@
 ###
 
 <div>
-  <a href="https://ethglobal.com/showcase/petitionvault-pppkx">this project</a>
+  <a href="https://ethglobal.com/showcase/petitionvault-pppkx">EthGlobal Brussels</a>
 </div>
 
 ###
