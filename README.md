@@ -1,40 +1,80 @@
-<h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">I currently study software development at 42 Heilbronn</h3>
-<h3 align="left">Connect with me: <p height=20><a href="https://linkedin.com/in/leon-david-zipp-b3840621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/leon-david-zipp-b3840621a" height="30" width="40" /></a></p></h3>
-<hr>
-<h4 align="left">🏆 Achievements</h4>
 <p align="left">
   - Me and my team recently won some prizes at <strong>Eth Global</strong> with <a href="https://ethglobal.com/showcase/petitionvault-pppkx">this project</a><br>
   - I was part of the Solana Summer Fellowship 2024, but had to stop due to burnout from other projects. 🫠
 </p>
 
-<h4 align="left">🫠 Past Experiences</h4>
-<p align="left">
-  - Solana Summer Fellowship 2024
-</p>
+<h2 align="center">Hi 👋! I'm Leon,  a student and blockchain dev</h2>
 
-<h4 align="left">⛓️ Interests</h4>
-<p align="left">
-  - Blockchain Development<br>
-  - Smart Contract Security<br>
-  - Smart Contract Optimization
-</p>
+###
 
-<h4 align="left">🌱 Currently Learning & Implementing</h4>
-<p align="left">
-  - Decentralized Application (DApp) Engineering<br>
-  - Frontend Development using <strong>Next.js</strong><br>
-  - Smart Contract Engineering using <strong>Solidity</strong>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonDavidZipp&area=true&radius=10&hide_border=false&theme=redical" height="206" alt="activity-graph graph"  />
+</div>
 
-<h4 align="left">🏅 Current Projects</h4>
-<p align="left">
-  - <strong>42 Project:</strong> NetPractice<br>
-  - <strong>Private Projects:</strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Debitor NFTs<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Scam Token Approval Protection
-</p>
+###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leondavidzipp" alt="leondavidzipp" /></a> </p>
+<div align="left">
+  <a href="www.linkedin.com/in/leondavidzipp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Languages I speak</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="30" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
+</div>
+
+###
+
+<h3 align="left">Frameworks & Technologies</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
+
+###
+
+<h3 align="left">Tools I use</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
+
+###
 
 
