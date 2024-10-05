@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">I currently study software development at 42 Heilbronn</h3>
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/leon-david-zipp-b3840621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/leon-david-zipp-b3840621a" height="30" width="40" /></a></h3>
-<p align="left">
-<a href="https://linkedin.com/in/leon-david-zipp-b3840621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/leon-david-zipp-b3840621a" height="30" width="40" /></a>
-</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leondavidzipp" alt="leondavidzipp" /></a> </p>
 
 <h4 align="left">🏆 Achievements</h4>
 <p align="left">
@@ -37,6 +33,10 @@
   - <strong>Private Projects:</strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;- Debitor NFTs<br>
     &nbsp;&nbsp;&nbsp;&nbsp;- Scam Token Approval Protection
+</p>
+
+<p align="left">
+<a href="https://linkedin.com/in/leon-david-zipp-b3840621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/leon-david-zipp-b3840621a" height="30" width="40" /></a>
 </p>
 
 
