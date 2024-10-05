@@ -35,8 +35,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;- Scam Token Approval Protection
 </p>
 
-<p align="left">
-<a href="https://linkedin.com/in/leon-david-zipp-b3840621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/leon-david-zipp-b3840621a" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leondavidzipp" alt="leondavidzipp" /></a> </p>
 
 
