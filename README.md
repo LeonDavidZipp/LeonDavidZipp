@@ -13,6 +13,25 @@
    - **Debitor NFTs**
    - **Scam Token Approval Protection**
 
+<h4 align="left">🏆 Achievements</h4>
+🏆 Achievements
+Me and my team recently won some prizes at Eth Global with this project.
+🫠 Past Experiences
+I was part of the Solana Summer Fellowship 2024, but had to stop due to burnout from other projects.
+⛓️ Interests
+Blockchain Development
+Smart Contract Security
+Smart Contract Optimization
+🌱 Currently Learning & Implementing
+Decentralized Application (DApp) Engineering
+Frontend Development using Next.js
+Smart Contract Engineering using Solidity
+🏅 Current Projects
+42 Project: NetPractice
+Private Projects:
+Debitor NFTs
+Scam Token Approval Protection
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leondavidzipp" alt="leondavidzipp" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
