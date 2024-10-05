@@ -18,10 +18,9 @@
    - **Scam Token Approval Protection**
 
 <h4 align="left">🏆 Achievements</h4>
-🏆 Achievements
-Me and my team recently won some prizes at Eth Global with this project.
-🫠 Past Experiences
-I was part of the Solana Summer Fellowship 2024, but had to stop due to burnout from other projects.
+- Me and my team recently won some prizes at **Eth Global** with [this project](https://ethglobal.com/showcase/petitionvault-pppkx)
+- I was part of the Solana Summer Fellowship 2024, but had to stop due to burnout from other projects. 🫠
+ Past Experiences
 ⛓️ Interests
 Blockchain Development
 Smart Contract Security
