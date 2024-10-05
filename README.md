@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">I currently study software development at 42 Heilbronn</h3>
 <h3 align="left">Connect with me: <p height=20><a href="https://linkedin.com/in/leon-david-zipp-b3840621a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/leon-david-zipp-b3840621a" height="30" width="40" /></a></p></h3>
----
+<hr>
 <h4 align="left">🏆 Achievements</h4>
 <p align="left">
   - Me and my team recently won some prizes at <strong>Eth Global</strong> with <a href="https://ethglobal.com/showcase/petitionvault-pppkx">this project</a><br>
