@@ -21,7 +21,7 @@
 ###
 
 <div>
-  <a href="https://ethglobal.com/showcase/petitionvault-pppkx">EthGlobal Brussels</a>
+  <a href="https://ethglobal.com/showcase/petitionvault-pppkx">EthGlobal Brussels</a></br>
   <a href="https://github.com/LeonDavidZipp/SolLibrary">My Solidity Library</a>
 </div>
 
