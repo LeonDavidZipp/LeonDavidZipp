@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋! I'm Leon,  a student and blockchain dev</h2>
+<h2 align="left">Hi, I'm Leon 👋</h2>
+<h4 align="left">I'm passionate about Data, Machine Learning, Timeseries Forecasting, Agentic-AI && Blockchain</h4>
 
 ###
 
@@ -8,7 +9,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/leondavidzipp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -16,67 +17,16 @@
 
 ###
 
-<h3 align="center">Cool stuff I did</h3>
+<h3 align="left">Project Showcase</h3>
 
 ###
 
-<div align="center">
-  <a href="https://ethglobal.com/showcase/petitionvault-pppkx">EthGlobal Brussels</a></br>
-  <a href="https://github.com/LeonDavidZipp/SolLibrary">My Solidity Library</a>
+<div align="left">
+  • <a href="https://ethglobal.com/showcase/petitionvault-pppkx](https://github.com/LeonDavidZipp/AgentPromptTuner">AgentPromptTuner</a>: A python sdk for finding the correct model prompt combination for structured outputs<br>
+  • <a href="https://github.com/LeonDavidZipp/42_transcendence">42 Transcendence</a>: Fullstack webpage with blockchain integration<br>
+  • <a href="https://ethglobal.com/showcase/petitionvault-pppkx">EthGlobal Brussels</a>: A project putting petitions onchain<br>
+  • <a href="https://github.com/LeonDavidZipp/SolLibrary">My Solidity Library</a>: A library containing regularly needed smart contracts and other implementations
 </div>
 
 ###
-
-<h3 align="center">Languages I speak</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
-</div>
-
-###
-
-<h3 align="center">Frameworks & Technologies</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
-
-###
-
-<h3 align="center">Tools I use</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
 
