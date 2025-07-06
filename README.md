@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
-  • <a href="https://ethglobal.com/showcase/petitionvault-pppkx](https://github.com/LeonDavidZipp/AgentPromptTuner">AgentPromptTuner</a>: A python sdk for finding the correct model prompt combination for structured outputs<br>
+  • <a href="https://github.com/LeonDavidZipp/AgentPromptTuner">AgentPromptTuner</a>: A python sdk for finding the correct model prompt combination for structured outputs<br>
   • <a href="https://github.com/LeonDavidZipp/42_transcendence">42 Transcendence</a>: Fullstack webpage with blockchain integration<br>
   • <a href="https://ethglobal.com/showcase/petitionvault-pppkx">EthGlobal Brussels</a>: A project putting petitions onchain<br>
   • <a href="https://github.com/LeonDavidZipp/SolLibrary">My Solidity Library</a>: A library containing regularly needed smart contracts and other implementations
